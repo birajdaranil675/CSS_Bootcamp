@@ -12,6 +12,10 @@ body{
     width: 480px;
 }
 
+.container p{
+    margin: 92px 32px;
+}
+
 .title{
     font-size: 3em;
 
